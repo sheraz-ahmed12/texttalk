@@ -3,8 +3,8 @@ This project combines some of the latest technologies in document processing and
 
 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝:
 
-Streamlit: Interactive web interface
-PyPDF2: PDF text extraction
+Streamlit: Interactive web interface<br>
+PyPDF2: PDF text extraction<br>
 LangChain: Text chunk management and conversational chains
 HuggingFace: Embeddings and pre-trained language models
 FAISS: Efficient similarity search
